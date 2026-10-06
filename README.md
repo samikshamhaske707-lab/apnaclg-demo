@@ -1,4 +1,4 @@
 # apnaclg-demo
-this is my firdt GIT repository
+this is my first GIT repository
 <br>
 Author - Samiksha Mhaske
